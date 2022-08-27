@@ -116,11 +116,3 @@ LEFT JOIN albums AS a ON b.id = a.band_id
 WHERE b.name = 'Deuce'
 GROUP BY b.id
 HAVING num_albums = 1;
-
-
-
-
-
-
-
-
