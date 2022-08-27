@@ -1,3 +1,3 @@
 # SQL
 
-### Some SQL Practicec Codes
+### Some SQL Practice Codes
